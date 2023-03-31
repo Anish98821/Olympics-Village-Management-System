@@ -21,7 +21,7 @@ public class connection {
 
 			Connection con = DriverManager.getConnection(
 				"jdbc:mysql://localhost:3306/MiniProject",
-				"root", "Namith98821@mysql");
+				"root", "password");
 			// here,root is the username and 1234 is the
 			// password,you can set your own username and
 			// password.
