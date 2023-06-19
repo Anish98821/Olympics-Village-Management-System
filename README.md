@@ -14,7 +14,7 @@ Functionalites for the athlete side includes:
  * Modify event details
  * Add event results
 
-The project is built using Java Swings for the front end and MySQL for the data.<br>
+The project is built using Java Swings for the front end and MySQL for the database.<br>
 Database schema with triggers and sample data are exported into a single self contained sql dump inside the sql_data_dump folder
 # Snapshots
 
