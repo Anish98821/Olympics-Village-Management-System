@@ -23,7 +23,7 @@ public class connection {
 
 			Connection con = DriverManager.getConnection(
 				"jdbc:mysql://localhost/olympics",
-				"root", "mysql@dbms");
+				"root", "1234");
 			// here,root is the username and 1234 is the
 			// password,you can set your own username and
 			// password.
